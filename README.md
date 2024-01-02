@@ -14,4 +14,9 @@ Crie uma variável chamada direita e outra chamada esquerda no objeto player
 Crie um script step no objeto player
 
 Crie duas variaveis para direita e esquerda e então coloque a velocidade horizontal como resultado de direita menos esquerda vezes velocidade
-# PAREI EM 9:10
+Depois disso use a variável x para receber o resultado da velocidade horizontal
+A partir desse momento já deve ser poissível movimentar o objeto jogador em seu jogo rodando
+
+### Colisão
+No objeto player crie uma variável para a velocidade vertical
+# PAREI EM 12:00
