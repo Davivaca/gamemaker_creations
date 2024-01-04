@@ -19,4 +19,5 @@ A partir desse momento já deve ser poissível movimentar o objeto jogador em se
 
 ### Colisão
 No objeto player crie uma variável para a velocidade vertical
-# PAREI EM 12:00
+No obj player crie um if para prever se o player vai colidir com a parede
+# PAREI EM 15:00
