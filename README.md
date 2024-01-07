@@ -20,4 +20,8 @@ A partir desse momento já deve ser poissível movimentar o objeto jogador em se
 ### Colisão
 No objeto player crie uma variável para a velocidade vertical
 No obj player crie um if para prever se o player vai colidir com a parede
-# PAREI EM 15:00
+
+Crie um while dentro do if com placemeet x + sign da velocidade horizontal
+o que é um sign? Uma função que indica se alguma variável é negativa positiva ou zero com o retorno sendo: 1, -1 ou 0
+
+# PAREI EM 18:00
