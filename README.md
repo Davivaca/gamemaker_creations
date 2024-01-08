@@ -23,5 +23,6 @@ No obj player crie um if para prever se o player vai colidir com a parede
 
 Crie um while dentro do if com placemeet x + sign da velocidade horizontal
 o que é um sign? Uma função que indica se alguma variável é negativa positiva ou zero com o retorno sendo: 1, -1 ou 0
+Coloque o x recebendo o valor de sign da velocidade horizontal e fora do while a velocidade horizontal recebe 0
 
-# PAREI EM 18:00
+# PAREI EM 20:00
