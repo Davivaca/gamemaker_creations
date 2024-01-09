@@ -25,4 +25,9 @@ Crie um while dentro do if com placemeet x + sign da velocidade horizontal
 o que é um sign? Uma função que indica se alguma variável é negativa positiva ou zero com o retorno sendo: 1, -1 ou 0
 Coloque o x recebendo o valor de sign da velocidade horizontal e fora do while a velocidade horizontal recebe 0
 
-# PAREI EM 20:00
+Agora devemos fazer o mesmo para a velocidade vertical
+
+### Gravidade e Pulo
+Comece criando duas variáveis em criar: "Cima" e "gravidade"
+Crie um keyboard check para o botão de "Cima"
+# PAREI EM 25:00
