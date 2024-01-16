@@ -8,7 +8,7 @@
 Crie um sprite na parte de sprite e coloque a colisão na parte central inferior
 Faça o mesmo para a parede, crie um sprite e um objeto respectivamente
 
-### Criando o código
+#### Criando o código
 Crie um script create no objeto player
 Crie uma variável chamada direita e outra chamada esquerda no objeto player
 Crie um script step no objeto player
@@ -17,7 +17,7 @@ Crie duas variaveis para direita e esquerda e então coloque a velocidade horizo
 Depois disso use a variável x para receber o resultado da velocidade horizontal
 A partir desse momento já deve ser poissível movimentar o objeto jogador em seu jogo rodando
 
-### Colisão
+#### Colisão
 No objeto player crie uma variável para a velocidade vertical
 No obj player crie um if para prever se o player vai colidir com a parede
 
@@ -27,8 +27,11 @@ Coloque o x recebendo o valor de sign da velocidade horizontal e fora do while a
 
 Agora devemos fazer o mesmo para a velocidade vertical
 
-### Gravidade e Pulo
+#### Gravidade e Pulo
 Comece criando duas variáveis em criar: "Cima" e "gravidade"
 Crie um keyboard check para o botão de "Cima"
 Você tem que criar um if para quando não estiver acontecendo uma colisão para poder fazer a gravidade funcionar
-# PAREI NO VÍDEO 2
+
+### Segundo vídeo: Sprites e sistema de vida
+
+# PAREI NO VÍDEO 2 minuto 02:00
