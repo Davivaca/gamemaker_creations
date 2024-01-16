@@ -31,4 +31,4 @@ Agora devemos fazer o mesmo para a velocidade vertical
 Comece criando duas variáveis em criar: "Cima" e "gravidade"
 Crie um keyboard check para o botão de "Cima"
 Você tem que criar um if para quando não estiver acontecendo uma colisão para poder fazer a gravidade funcionar
-# PAREI EM 28:00
+# PAREI NO VÍDEO 2
