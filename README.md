@@ -33,5 +33,10 @@ Crie um keyboard check para o botão de "Cima"
 Você tem que criar um if para quando não estiver acontecendo uma colisão para poder fazer a gravidade funcionar
 
 ### Segundo vídeo: Sprites e sistema de vida
+Primeiro crie os sprites
 
-# PAREI NO VÍDEO 2 minuto 02:00
+#### Importando e editando
+Crie um sprite para a animação de ficar parado e importe o sprite que você fez
+Depois clique em editar imagem - imagem - Converter em frames
+
+# PAREI NO VÍDEO 2 minuto 04:00
