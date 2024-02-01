@@ -39,4 +39,4 @@ Primeiro crie os sprites
 Crie um sprite para a animação de ficar parado e importe o sprite que você fez
 Depois clique em editar imagem - imagem - Converter em frames
 
-# PAREI NO VÍDEO 2 minuto 06:00
+# PAREI NO VÍDEO 2 minuto 07:00
