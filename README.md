@@ -39,4 +39,6 @@ Primeiro crie os sprites
 Crie um sprite para a animação de ficar parado e importe o sprite que você fez
 Depois clique em editar imagem - imagem - Converter em frames
 
-# PAREI NO VÍDEO 2 minuto 07:00
+Crie uma variável para a direção do player e depois use essa variável para alterar os sprites do personagem
+
+# PAREI NO VÍDEO 2 minuto 08:00
