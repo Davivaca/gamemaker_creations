@@ -41,4 +41,7 @@ Depois clique em editar imagem - imagem - Converter em frames
 
 Crie uma variável para a direção do player e depois use essa variável para alterar os sprites do personagem
 
-# PAREI NO VÍDEO 2 minuto 09:00
+#### Vida
+Primeiro vá no player e crie uma variável vida
+
+# PAREI NO VÍDEO 2 minuto 11:00
