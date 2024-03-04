@@ -44,4 +44,4 @@ Crie uma variável para a direção do player e depois use essa variável para a
 #### Vida
 Primeiro vá no player e crie uma variável vida
 
-# PAREI NO VÍDEO 2 minuto 11:00
+# PAREI NO VÍDEO 2 minuto 13:00
